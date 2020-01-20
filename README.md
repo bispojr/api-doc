@@ -6,23 +6,29 @@ A API do Organizze
 - [Apenas JSON](#apenas-json)
 - [Paginação](#paginação)
 - [Erros](#erros)
+# Usuário
 - [Detalhar usuário](#detalhar-usuário)
+# Conta Bancária
 - [Listar contas bancárias](#listar-contas-bancárias)
 - [Detalhar conta bancária](#detalhar-conta-bancária)
 - [Criar conta bancária](#criar-conta-bancária)
 - [Atualizar conta bancária](#atualizar-conta-bancária)
 - [Excluir conta bancária](#excluir-conta-bancária)
+# Meta
 - [Listar metas](#listar-metas)
+# Categoria
 - [Listar categorias](#listar-categorias)
 - [Detalhar categoria](#detalhar-categoria)
 - [Cria uma categoria](#cria-uma-categoria)
 - [Atualizar uma categoria](#atualizar-uma-categoria)
 - [Excluir uma categoria](#excluir-uma-categoria)
+# Cartão de Crédito
 - [Listar cartões de crédito](#listar-cartões-de-crédito)
 - [Detalhar cartão de crédito](#detalhar-cartão-de-crédito)
 - [Criar um cartão de crédito](#criar-um-cartão-de-crédito)
 - [Atualizar um cartão de crédito](#atualizar-um-cartão-de-crédito)
 - [Excluir um cartão de crédito](#excluir-um-cartão-de-crédito)
+# Fatura de Cartão de Crédito
 - [Listar as faturas de um cartão de crédito](#listar-as-faturas-de-um-cartão-de-crédito)
 - [Detalhar uma fatura de cartão de crédito](#detalhar-uma-fatura-de-cartão-de-crédito)
 - [Pagamento de uma fatura](#pagamento-de-uma-fatura)
